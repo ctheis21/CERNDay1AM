@@ -2,6 +2,7 @@
 A list is an iterable object (for loop + sum(), min(), max(), map(), ...)
 A list is mutable
 A list is a sequence 
+
 """
 
 l1=[56,67,78]
